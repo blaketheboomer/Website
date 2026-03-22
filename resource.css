@@ -1,0 +1,25 @@
+.backGround
+            {
+                background-image:url("backGround.jpg");/*have to add url for path */
+                background-repeat: no-repeat;
+                background-position: center;
+                background-attachment: fixed;
+                background-size: cover;
+            }
+
+nav
+            {
+                
+            }
+
+.topBarMainPage
+            {
+                background-color: rgb(255, 255, 255);
+                overflow: hidden;
+                width: 90%;
+                height: 100px;
+                position: fixed;
+                top: 20px;
+                align-content: center;                
+
+            }
